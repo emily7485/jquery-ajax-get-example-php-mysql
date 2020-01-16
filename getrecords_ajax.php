@@ -32,3 +32,5 @@
     echo json_encode($result_array);
     
     $conn->close();
+
+?>
